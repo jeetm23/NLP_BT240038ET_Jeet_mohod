@@ -25,7 +25,7 @@ The project includes both a Python-based backend for model training and evaluati
 
 ---
 
-## NLP Technique / Method Used
+## NLP Techniques Used
 
 The following NLP techniques are applied in this project:
 
@@ -130,8 +130,8 @@ Step 9: Prediction / Interactive Demo
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/jeetm23/sms-spam-detection.git
-cd sms-spam-detection
+git clone https://github.com/jeetm23/NLP_BT240038ET_Jeet_mohod.git
+cd NLP_BT240038ET_Jeet_mohod
 ```
 
 ### Step 2: Install Python Dependencies
