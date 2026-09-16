@@ -20,6 +20,7 @@ model/*.pkl
 
 # Generated plots
 *.png
+!screenshots/*.png
 
 # IDE
 .vscode/
